@@ -1,7 +1,10 @@
+references:
+  - "https://en.wikipedia.org/wiki/Honda_Brio"
+
 generations:
   - name: "First Generation"
     start_year: 2011
-    end_year: 2018
+    end_year: 2020
     description: "The original Honda Brio was a subcompact hatchback developed primarily for emerging Asian markets including Thailand, India, Indonesia, and the Philippines. Featuring distinctive styling with a prominent glass hatchback and compact dimensions (under 3.8 meters long), it was designed for urban environments with tight spaces and congested traffic. Powered by a 1.2L i-VTEC four-cylinder engine producing around 88-90 HP depending on the market, paired with either a 5-speed manual or CVT transmission. The interior focused on maximizing space efficiency within the small footprint, offering surprising roominess for four adults despite the compact exterior. Trim levels and features varied by market, with later models receiving touchscreen infotainment systems in higher trims. A sedan variant called the Brio Amaze (or simply Amaze in some markets) was introduced in 2013, offering a conventional trunk instead of the hatchback's glass rear. A significant refresh in 2016 updated the styling with a new front fascia and revised interior. This generation established the Brio as Honda's entry-level offering in multiple Asian markets, providing the brand's reputation for quality and reliability in an affordable package."
 
   - name: "Second Generation"
